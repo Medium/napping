@@ -21,7 +21,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/jmcvetta/napping/httpclient"
+	"github.com/Medium/napping/httpclient"
 )
 
 import ()
